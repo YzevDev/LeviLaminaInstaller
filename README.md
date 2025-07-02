@@ -1,11 +1,9 @@
 ![预览图](assets/preview.jpg)
 
+![Stars](https://img.shields.io/github/stars/YzevDev/LeviLaminaInstaller)
 ![Github Release](https://img.shields.io/github/v/release/YzevDev/LeviLaminaInstaller)
 ![Downloads](https://img.shields.io/github/downloads/YzevDev/LeviLaminaInstaller/total)
-![Stars](https://img.shields.io/github/stars/YzevDev/LeviLaminaInstaller)
 ![License](https://img.shields.io/github/license/YzevDev/LeviLaminaInstaller)
-![Top Language](https://img.shields.io/github/languages/top/YzevDev/LeviLaminaInstaller)
-![Languages](https://img.shields.io/github/languages/count/YzevDev/LeviLaminaInstaller)
 
 一个简单高效的LeviLamina自动化安装脚本，专为Debian/Ubuntu系统设计。
 
@@ -21,7 +19,7 @@
 在命令行输入：
 
 ```bash
-curl -sS https://raw.githubusercontent.com/YzevDev/LeviLaminaInstaller/refs/heads/main/src/levilamina_installer.sh | sudo bash
+curl -sS https://raw.githubusercontent.com/YzevDev/LeviLaminaInstaller/main/levilamina_installer.sh | sudo bash
 ```
 
 ### 🛠️ 系统要求
