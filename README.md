@@ -18,11 +18,21 @@
 
 ### 🚀 使用方法
 
-在命令行输入以下命令：
+下载安装脚本
 
 ```bash
 curl -sSLO https://raw.githubusercontent.com/YzevDev/LeviLaminaInstaller/main/levilamina_installer.sh
+```
+
+添加可执行权限
+
+```bash
 chmod +x levilamina_installer.sh
+```
+
+运行安装脚本
+
+```bash
 ./levilamina_installer.sh
 ```
 
