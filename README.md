@@ -1,10 +1,11 @@
-![Preview](assets/preview.jpg)
-![Stars](https://img.shields.io/github/stars/YzevDev/LeviLaminaInstaller?style=flat-square&link=https%3A%2F%2Fgithub.com%2FYzevDev%2FLeviLaminaInstaller%2Fstargazers)
-![Downloads](https://img.shields.io/github/downloads/YzevDev/LeviLaminaInstaller/total?style=flat-square)
-![Release](https://img.shields.io/github/v/release/YzevDev/LeviLaminaInstaller?style=flat-square&link=https%3A%2F%2Fgithub.com%2FYzevDev%2FLeviLaminaInstaller%2Freleases%2Flatest)
-![License](https://img.shields.io/github/license/YzevDev/LeviLaminaInstaller?style=flat-square&link=https%3A%2F%2Fgithub.com%2FYzevDev%2FLeviLaminaInstaller%2Fblob%2Fmain%2FLICENSE)
+## LeviLamina Installer
 
-📦 适用于Debian/Ubuntu的LeviLamina一键安装脚本
+![Preview](assets/preview.jpg)
+[![Stars](https://img.shields.io/github/stars/YzevDev/LeviLaminaInstaller?style=flat-square)](https://github.com/YzevDev/LeviLaminaInstaller/stargazers)
+[![Release](https://img.shields.io/github/v/release/YzevDev/LeviLaminaInstaller?style=flat-square)](https://github.com/YzevDev/LeviLaminaInstaller/releases/latest)
+[![License](https://img.shields.io/github/license/YzevDev/LeviLaminaInstaller?style=flat-square)](LICENSE)
+
+一个简单高效的LeviLamina自动安装脚本，专门为Debian/Ubuntu而设计。
 
 ### ✨ 功能亮点
 
@@ -37,8 +38,7 @@ curl -sS https://raw.githubusercontent.com/YzevDev/LeviLaminaInstaller/main/levi
 
 ### 📬 联系方式
 
-通过 GitHub：[我的个人资料](https://github.com/YzevDev)  
-问题追踪: [GitHub Issues](https://github.com/YzevDev/LeviLaminaInstaller/issues)
+通过 GitHub：[我的个人资料](https://github.com/YzevDev)
 
 ### 📜 许可证
 
