@@ -7,6 +7,8 @@
 
 一个简单高效的LeviLamina自动安装脚本，专门为Debian/Ubuntu而设计。
 
+> 该项目当前为初始测试版
+
 ### ✨ 功能亮点
 
 - ✈️ 一键自动安装LeviLamina及所有依赖项
