@@ -21,7 +21,9 @@
 在命令行输入以下命令：
 
 ```bash
-curl -sS https://raw.githubusercontent.com/YzevDev/LeviLaminaInstaller/main/levilamina_installer.sh | sudo bash
+curl -sSLo levilamina_installer.sh https://raw.githubusercontent.com/YzevDev/LeviLaminaInstaller/main/levilamina_installer.sh
+chmod +x levilamina_installer.sh
+./levilamina_installer.sh
 ```
 
 ### 🛠️ 系统要求
