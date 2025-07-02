@@ -21,7 +21,7 @@
 在命令行输入以下命令：
 
 ```bash
-curl -sSLo levilamina_installer.sh https://raw.githubusercontent.com/YzevDev/LeviLaminaInstaller/main/levilamina_installer.sh
+curl -sSLO https://raw.githubusercontent.com/YzevDev/LeviLaminaInstaller/main/levilamina_installer.sh
 chmod +x levilamina_installer.sh
 ./levilamina_installer.sh
 ```
