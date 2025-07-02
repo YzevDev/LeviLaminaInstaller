@@ -18,7 +18,7 @@
 
 ### 🚀 使用方法
 
-在命令行输入：
+在命令行输入以下命令：
 
 ```bash
 curl -sS https://raw.githubusercontent.com/YzevDev/LeviLaminaInstaller/main/levilamina_installer.sh | sudo bash
