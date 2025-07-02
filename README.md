@@ -1,5 +1,4 @@
-![预览图](assets/preview.jpg)
-
+![Preview](assets/preview.jpg)
 ![Stars](https://img.shields.io/github/stars/YzevDev/LeviLaminaInstaller?style=flat-square&link=https%3A%2F%2Fgithub.com%2FYzevDev%2FLeviLaminaInstaller%2Fstargazers)
 ![Downloads](https://img.shields.io/github/downloads/YzevDev/LeviLaminaInstaller/total?style=flat-square)
 ![Release](https://img.shields.io/github/v/release/YzevDev/LeviLaminaInstaller?style=flat-square&link=https%3A%2F%2Fgithub.com%2FYzevDev%2FLeviLaminaInstaller%2Freleases%2Flatest)
