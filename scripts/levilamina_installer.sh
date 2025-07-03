@@ -3,7 +3,7 @@
 # 📦 适用于Debian/Ubuntu的LeviLamina一键安装脚本
 #
 # 作者: Yzev (GitHub: @YzevDev)
-# 版本: 0.0.2
+# 版本: 0.0.3
 #
 # MIT License
 # Copyright (c) 2025 Yzev
@@ -36,7 +36,7 @@ printf "${blue}%s${reset}\n" '           | | | '\''_ \/ __| __/ _` | | |/ _ \ '\
 printf "${yellow}%s${reset}\n" '          _| |_| | | \__ \ || (_| | | |  __/ |    '
 printf "${red}%s${reset}\n\n" '         |_____|_| |_|___/\__\__,_|_|_|\___|_|    '
 printf "${blue}作者: ${yellow}%s${reser}\n" 'Yzev'
-printf "${blue}版本: ${yellow}%s${reser}\n" '0.0.2'
+printf "${blue}版本: ${yellow}%s${reser}\n" '0.0.3'
 
 spinner() {
   spin='-\|/'

@@ -16,16 +16,26 @@
 
 ### 🚀 使用方法
 
-下载安装脚本
+下载脚本
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/YzevDev/LeviLaminaInstaller/main/scripts/install.sh | sudo bash
+curl -#fLO https://raw.githubusercontent.com/YzevDev/LeviLaminaInstaller/main/scripts/levilamina_installer.sh
+
+# 或
+
+curl -#fLO https://raw.kkgithub.com/YzevDev/LeviLaminaInstaller/main/scripts/levilamina_installer.sh
 ```
 
-或使用KGitHub
+添加可执行权限
 
 ```bash
-curl -fsSL https://raw.kkgithub.com/YzevDev/LeviLaminaInstaller/main/scripts/install_proxy.sh | sudo bash
+chmod +x levilamina_installer.sh
+```
+
+执行脚本
+
+```bash
+./levilamina_installer.sh
 ```
 
 ### 🛠️ 系统要求
