@@ -22,6 +22,12 @@
 curl -fsSL https://raw.githubusercontent.com/YzevDev/LeviLaminaInstaller/main/scripts/install.sh | sudo bash
 ```
 
+或使用KGitHub
+
+```bash
+curl -fsSL https://raw.kkgithub.com/YzevDev/LeviLaminaInstaller/main/scripts/install_proxy.sh | sudo bash
+```
+
 ### 🛠️ 系统要求
 
 - 操作系统
