@@ -7,8 +7,6 @@
 
 一个简单高效的LeviLamina自动安装脚本，专门为Debian/Ubuntu而设计。
 
-> 该项目当前为初始测试版
-
 ### ✨ 功能亮点
 
 - ✈️ 一键自动安装LeviLamina及所有依赖项
@@ -21,19 +19,7 @@
 下载安装脚本
 
 ```bash
-curl -sSLO https://raw.githubusercontent.com/YzevDev/LeviLaminaInstaller/main/levilamina_installer.sh
-```
-
-添加可执行权限
-
-```bash
-chmod +x levilamina_installer.sh
-```
-
-运行安装脚本
-
-```bash
-./levilamina_installer.sh
+curl -fsSL https://raw.githubusercontent.com/YzevDev/LeviLaminaInstaller/main/scripts/install.sh | sudo bash
 ```
 
 ### 🛠️ 系统要求
